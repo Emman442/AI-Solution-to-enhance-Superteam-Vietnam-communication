@@ -1,0 +1,86 @@
+{
+    "superteam_vietnam": [
+      {
+        "name": "Nguyen Van A",
+        "role": "Blockchain Developer",
+        "skills": ["Rust", "Solidity", "Postgres", "Smart Contracts"],
+        "experience": 5,
+        "location": "Hanoi",
+        "email": "nguyenvana@example.com",
+        "linkedin": "https://linkedin.com/in/nguyenvana"
+      },
+      {
+        "name": "Tran Thi B",
+        "role": "Full Stack Developer",
+        "skills": ["Javascript", "React", "Redux", "Node.js", "Postgres"],
+        "experience": 4,
+        "location": "Ho Chi Minh City",
+        "email": "tranthib@example.com",
+        "linkedin": "https://linkedin.com/in/tranthib"
+      },
+      {
+        "name": "Le Van C",
+        "role": "Data Scientist",
+        "skills": ["Python", "Postgres", "Machine Learning", "Data Analysis"],
+        "experience": 6,
+        "location": "Da Nang",
+        "email": "levanc@example.com",
+        "linkedin": "https://linkedin.com/in/levanc"
+      },
+      {
+        "name": "Pham Dinh D",
+        "role": "Content Creator",
+        "skills": ["Writing", "Social Media", "Content Strategy"],
+        "experience": 3,
+        "location": "Hanoi",
+        "email": "phamdinhd@example.com",
+        "linkedin": "https://linkedin.com/in/phamdinhd"
+      },
+      {
+        "name": "Hoang Minh E",
+        "role": "Frontend Developer",
+        "skills": ["React", "Redux", "CSS", "JavaScript"],
+        "experience": 5,
+        "location": "Can Tho",
+        "email": "hoangminhe@example.com",
+        "linkedin": "https://linkedin.com/in/hoangminhe"
+      },
+      {
+        "name": "Bui Thanh F",
+        "role": "Backend Developer",
+        "skills": ["Node.js", "Express", "MongoDB", "Postgres"],
+        "experience": 4,
+        "location": "Nha Trang",
+        "email": "buithanhf@example.com",
+        "linkedin": "https://linkedin.com/in/buithanhf"
+      },
+      {
+        "name": "Do Thi G",
+        "role": "Researcher",
+        "skills": ["Research", "Writing", "Data Analysis"],
+        "experience": 3,
+        "location": "Hue",
+        "email": "dothig@example.com",
+        "linkedin": "https://linkedin.com/in/dothig"
+      },
+      {
+        "name": "Vo Trung H",
+        "role": "Video Editor",
+        "skills": ["Video Editing", "Motion Graphics", "Social Media"],
+        "experience": 5,
+        "location": "Hai Phong",
+        "email": "votrung@example.com",
+        "linkedin": "https://linkedin.com/in/votrung"
+      },
+      {
+        "name": "Pham Quang I",
+        "role": "Other",
+        "skills": ["Project Management", "Community Building", "Marketing"],
+        "experience": 7,
+        "location": "Bac Ninh",
+        "email": "phamquangi@example.com",
+        "linkedin": "https://linkedin.com/in/phamquangi"
+      }
+    ]
+  }
+  
